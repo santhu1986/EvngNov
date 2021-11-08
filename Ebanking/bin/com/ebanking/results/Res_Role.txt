@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Cashierfgh###E^*%^##New Role with id 1900 Created Sucessfully
+Tellerfgh###E^*%^##New Role with id 1901 Created Sucessfully
+Managerfgh###E^*%^##New Role with id 1902 Created Sucessfully
